@@ -14,3 +14,7 @@
    * Edge: `Alt + key`
    * Explorer: `Alt + key`
    * FireFox: `Alt + Shift + key`
+   
+* **Quanto mais semantica a pagina, melhor aparecerá nos mecanismos de busca**
+* `<abbr>` - Explicações sobre Abreviações _(fica um texto com a explicação ao passar o mouse por cima)_
+* `<address>` - Contato do **Autor** que fez a Pagina em HTML
